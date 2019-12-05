@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/FastModel/IdeaProjects/rave2/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/FastModel/IdeaProjects/rave2/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/FastModel/IdeaProjects/rave2/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/FastModel/IdeaProjects/rave2/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/FastModel/IdeaProjects/rave2/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/FastModel/IdeaProjects/rave2/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Folly/folly/Optional.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Folly/folly/Portability.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Folly/folly/CPortability.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Folly/folly/Traits.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Folly/folly/Utility.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/FastModel/IdeaProjects/rave2/ios/Pods/Folly/folly/CppAttributes.h
