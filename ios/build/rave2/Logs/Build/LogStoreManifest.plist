@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>23BF87CF-BD09-47C1-B87C-2BA9704FCAEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>23BF87CF-BD09-47C1-B87C-2BA9704FCAEA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>rave2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>rave2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace rave2 with scheme rave2 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>597301201.44549406</real>
+			<key>timeStoppedRecording</key>
+			<real>597301321.530002</real>
+			<key>title</key>
+			<string>Building workspace rave2 with scheme rave2 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>23BF87CF-BD09-47C1-B87C-2BA9704FCAEA</string>
+		</dict>
 		<key>F5F914A2-5AA2-48B9-93FE-08A3E3CBC669</key>
 		<dict>
 			<key>className</key>

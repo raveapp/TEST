@@ -6,11 +6,11 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib/objects-13.0+.nib</key>
 		<data>
-		FtliO+sp4UjMIlcFObqazStAxvA=
+		7YSiVBdc3rR5sWIlOxNpnIPOT2A=
 		</data>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<data>
-		WF7ntMCZGI9azT14/gPv+byQt4M=
+		ne5Zv9iBKe7fAQWDuIbxgkEbPsg=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
 		<data>
@@ -87,7 +87,7 @@
 		</data>
 		<key>PlugIns/rave2Tests.xctest/rave2Tests</key>
 		<data>
-		Tf/p9JQQXIlDOZEdjhbs+pOsqp8=
+		y77Vk0trEDqd6Z/UHa5xlVA7lxY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -96,22 +96,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FtliO+sp4UjMIlcFObqazStAxvA=
+			7YSiVBdc3rR5sWIlOxNpnIPOT2A=
 			</data>
 			<key>hash2</key>
 			<data>
-			CtH/NNxPwsrqZPvEa/iFbwa9ZGO+Lxb7Hooom89U41I=
+			klttUt8dCNooTBqJjACHz+gbwbH1alkoeBu+Rbdaohs=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WF7ntMCZGI9azT14/gPv+byQt4M=
+			ne5Zv9iBKe7fAQWDuIbxgkEbPsg=
 			</data>
 			<key>hash2</key>
 			<data>
-			G78HfVbe+qIIMgm7UWbtSBoZDUGcaX23RJKLk3AnvJo=
+			nnrEoxrHxDuwcnajqfuaYAqoheLdmVSFueZTsBEA7vo=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
@@ -285,11 +285,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Tf/p9JQQXIlDOZEdjhbs+pOsqp8=
+			y77Vk0trEDqd6Z/UHa5xlVA7lxY=
 			</data>
 			<key>hash2</key>
 			<data>
-			vq01t5TTeLvURXZmzye7u0e0FBjNGXP6nOuRuexAp5g=
+			6Yss6qKMdu0oTukteS0WZ+E01d5PNGUabMNbX9Nnf14=
 			</data>
 		</dict>
 	</dict>
